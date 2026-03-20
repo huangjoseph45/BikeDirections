@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+xcuserdata/
+**/xcuserdata/
+*.xcuserstate
+build/
+DerivedData/
+.build/
+.swiftpm/
+Pods/
+Carthage/Build/
+*.ipa
+*.dSYM
+*.dSYM.zip
